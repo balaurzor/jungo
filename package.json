@@ -1,0 +1,24 @@
+{
+  "name": "jungo.themove.dk",
+  "version": "1.0.0",
+  "description": "Express js server for login",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balaurzor/jungo.themove.dk.git"
+  },
+  "author": "Laurentiu Pop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balaurzor/jungo.themove.dk/issues"
+  },
+  "homepage": "https://github.com/balaurzor/jungo.themove.dk#readme",
+  "devDependencies": {
+    "compression": "^1.6.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0"
+  }
+}
